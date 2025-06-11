@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishikesh</h1>
 <h3 align="center">Aspiring Full Stack Developer | Leveling up in React, Node.js & creating scalable web apps</h3>
 
-- 🔭 I’m currently working on **CineWeb**
+- 🔭 I’m currently working on **SecureSlate**
 
 - 🌱 I’m currently learning **ReactJs**
 
