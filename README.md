@@ -3,7 +3,7 @@
 
 - 🌱 Actively learning and building with **Swift** and **SwiftUI**  
 - 📘 Transitioning into **iOS Development** with a goal to master **end-to-end app development** (Frontend + Backend)  
-- 💻 Previously worked on **Full-Stack Web Development** (MERN)  
+- 💻 Previously worked on **Back-end Web Development** (MERN)  
 
 ---
 
