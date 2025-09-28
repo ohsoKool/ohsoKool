@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishikesh</h1>
-<h3 align="center">Upcoming iOS Developer | Swift, SwiftUI </h3>
+<h3 align="center">Upcoming iOS Developer | Swift, SwiftUI, Vapor & FluentORM </h3>
 
 - 🌱 Actively learning and building with **Swift** and **SwiftUI**  
 - 📘 Transitioning into **iOS Development** with a goal to master **end-to-end app development** (Frontend + Backend)  
@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
 
+  <!-- Backend & Server-side Swift -->
+  <img src="https://img.shields.io/badge/Vapor-0A84FF?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fluent%20ORM-FF6F00?style=for-the-badge&logo=database&logoColor=white" />
+
   <!-- Design & Mobile Tools -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
@@ -27,6 +31,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
   <!-- DevOps & Tools -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
